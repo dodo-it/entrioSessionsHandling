@@ -1,60 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d8d0e03-3d27-4db7-b12a-fb090e3ee740" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/entriosession.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-project/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-project/.env.test" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-project/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-project/bin/console" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-project/bin/phpunit" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-project/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-project/composer.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-project/config/bootstrap.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-project/config/bundles.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-project/config/packages/cache.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-project/config/packages/dev/debug.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-project/config/packages/dev/easy_log_handler.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-project/config/packages/dev/monolog.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-project/config/packages/dev/routing.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-project/config/packages/dev/swiftmailer.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-project/config/packages/dev/web_profiler.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-project/config/packages/doctrine.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-project/config/packages/doctrine_migrations.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-project/config/packages/framework.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-project/config/packages/prod/doctrine.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-project/config/packages/prod/monolog.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-project/config/packages/routing.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-project/config/packages/security.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-project/config/packages/sensio_framework_extra.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-project/config/packages/swiftmailer.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-project/config/packages/test/framework.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-project/config/packages/test/monolog.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-project/config/packages/test/routing.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-project/config/packages/test/swiftmailer.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-project/config/packages/test/web_profiler.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-project/config/packages/translation.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-project/config/packages/twig.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-project/config/packages/validator.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-project/config/routes.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-project/config/routes/annotations.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-project/config/routes/dev/twig.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-project/config/routes/dev/web_profiler.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-project/config/services.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-project/phpunit.xml.dist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-project/public/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-project/src/Controller/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-project/src/Entity/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-project/src/Kernel.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-project/src/Migrations/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-project/src/Repository/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-project/symfony.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-project/templates/base.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-project/tests/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-project/translations/.gitignore" afterDir="false" />
+    <list default="true" id="9d8d0e03-3d27-4db7-b12a-fb090e3ee740" name="Default Changelist" comment="First setup commit">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +18,20 @@
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="19" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PHP" value="1" />
+        </counts>
+      </usages-collector>
     </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -104,6 +65,12 @@
               <item name="entriosession" type="b2602c69:ProjectViewProjectNode" />
               <item name="entriosession" type="462c0819:PsiDirectoryNode" />
               <item name="my-project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="entriosession" type="b2602c69:ProjectViewProjectNode" />
+              <item name="entriosession" type="462c0819:PsiDirectoryNode" />
+              <item name="my-project" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -140,23 +107,31 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1546854156301</updated>
-      <workItem from="1546854157806" duration="905000" />
+      <workItem from="1546854157806" duration="1166000" />
     </task>
+    <task id="LOCAL-00001" summary="First setup commit">
+      <created>1546855095137</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1546855095137</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="905000" />
+    <option name="totallyTimeSpent" value="1166000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3584288" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3584288" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -176,5 +151,18 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First setup commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First setup commit" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/my-project/bin/phpunit">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
